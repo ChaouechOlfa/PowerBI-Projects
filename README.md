@@ -19,6 +19,7 @@ Le projet est divisé en étapes clés pour faciliter son utilisation :
 6. **Créer la table du temps:** Nous mettons en place une table de dates pour permettre des analyses basées sur le temps, telles que des graphiques ou des filtres par période.
 
 7. **Lier les tables au niveau de la vue modèle:** Enfin, nous créons des relations entre les différentes tables pour construire une vue modèle cohérente.
+8. 7. **Visualiser les données à travers un tableau de bord dynamique:** Cette étape consiste à créer une interface interactive qui présente visuellement les données de manière claire, concise et en temps réel.
 
 ## Comment Utiliser ce Projet
 
