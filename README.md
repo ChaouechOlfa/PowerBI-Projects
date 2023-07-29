@@ -1,6 +1,6 @@
 # Projet PowerBI 
 
-Ce projet Power BI vise à importer, nettoyer, transformer des données, créer une vue modèle organisée pour visualiser et analyser les données.
+Ce projet Power BI vise à importer, nettoyer, transformer des données, créer une vue modèle organisée pour visualiser et analyser  l'information de manière efficace.
 
 ## Contenu du Projet
 
